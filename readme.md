@@ -3,7 +3,10 @@
 ## 如何使用
 ### 啟動程式
 > pip3 install -r requirements.txt
+>
 > python3 app.py
+>
 > python3 app2.py
+>
 
 ## Enjoy
